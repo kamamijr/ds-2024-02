@@ -26,3 +26,24 @@ O Smart Decisions Game é uma simulação que auxilia equipes a aprenderem sobre
 - **Decisões Informadas**: Equipes aprendem a priorizar drivers como custo, escalabilidade e performance.
 - **Inovação**: Estimula criatividade ao explorar diferentes combinações de designs e tecnologias.
 
+## Scoring System: How Points Are Assigned
+O sistema de pontuação do jogo é baseado em três categorias principais:
+
+1. **Design Points** (Blue Cards):
+   - Representam o impacto positivo do conceito de design arquitetural escolhido.
+   - Cada carta azul possui estrelas que indicam a relevância para os drivers de qualidade definidos na iteração.
+   - Exemplo: Um design com ★★★ em "Scalability" e "Ad-hoc Analysis" contribui com mais pontos se esses drivers forem prioritários.
+
+2. **Technology Points** (Red Cards):
+   - Avaliam as tecnologias selecionadas para implementar o design.
+   - Assim como as cartas azuis, as cartas vermelhas possuem estrelas que refletem o impacto em atributos como performance, custo e confiabilidade.
+   - Exemplo: O uso de "Fluentd" pode aumentar a pontuação em "Reliability" devido à sua robustez.
+
+3. **Bonus Points** (Analysis):
+   - Pontos extras são atribuídos com base na justificativa estratégica das escolhas.
+   - Times que apresentam uma análise clara e alinhada ao problema recebem pontos adicionais de bônus.
+
+### Fórmula Final:
+A pontuação final de cada iteração é calculada como:
+
+Iteration Total = (Design Points + Technology Points) + Bonus Points
