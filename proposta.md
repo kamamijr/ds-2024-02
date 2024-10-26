@@ -14,6 +14,9 @@ Desenvolver um Smart Decision Game que utiliza Big Data para simular cenários e
 ## Justificativa
 - **Relevância do Big Data**: Organizações modernas enfrentam dificuldades para lidar com grandes volumes de dados e tomar decisões rápidas. Este jogo visa simular esses desafios.
 - **Gamificação como Ferramenta de Treinamento**: Jogos permitem aprendizado prático e engajamento maior do que abordagens tradicionais.
+- **Cenários Reais**: As decisões simuladas refletem desafios reais enfrentados em empresas de tecnologia.
+- **Big Data em Ascensão**: A demanda por profissionais que dominem análise de dados está crescendo rapidamente.
+- **Aprendizado Engajante**: O formato gamificado aumenta a retenção de conhecimento e engajamento dos participantes.
 
 ## Escopo
 - **Inclusões**:
@@ -32,3 +35,15 @@ Desenvolver um Smart Decision Game que utiliza Big Data para simular cenários e
 ## Metodologia
 - Desenvolvimento incremental com sprints semanais.
 - Design modular com uso de microserviços.
+
+## Vantagens no Mercado de Trabalho
+O jogo oferece benefícios diretos tanto para indivíduos quanto para empresas:
+- **Para Profissionais**:
+  - Treinamento em habilidades práticas de análise e interpretação de dados.
+  - Preparação para lidar com problemas reais em Big Data.
+- **Para Empresas**:
+  - Ferramenta de treinamento para equipes, com foco em resolução de problemas.
+  - Avaliação de competências em cenários simulados antes de aplicá-las em situações reais.
+- **Para o Setor Educacional**:
+  - Um recurso inovador para o ensino de Big Data e análise de dados.
+
